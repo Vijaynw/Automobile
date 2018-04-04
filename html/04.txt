@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<body 
+>
+ <h1>Automobile</h1>
+<MARQUEE>
+
+<h2 style="text-align:center;" ><U>Lamborghini</U></h2>
+ </MARQUEE> <h4 >The story of Lamborghini is very close to a particular fairy tale involving magic beans, giant beanstalks and multi-million dollar exotic car empires. Ferrucio Lamborghini's “beans” were his outstanding repair skill and passion for mechanics that eventually got propelled him up the sports-cars stalk of standards and earned him a place in automotive history.
+
+Born in 1916 in Italy, Feruccio's talent was first noticed during the First World War. Through a fortunate twist of fate he was stationed on the island of Rhodes which, because of its positioning, was a rather peaceful place compared to the mainland. His primary job was that of fixing broken engines task that he effortlessly completed, garnering the respect and admiration of his colleagues.
+
+Upon returning to his home near Modena after the war, the mechanical whiz though of establishing his own business. He established a small motorcycle and repair shop that turned out to be a very profitable endeavor. Feruccio had become a somewhat prominent figure due to his mechanical skill which attracted most of clients.
+
+His business later expanded with Feruccio setting  a tractor manufacturing facility in response to Italy's great demand of farming implements. His tractors were built from war-waste and parts taken from derelict vehicles, wreckage, basically every piece of metal that could be saved and used for production.</h4>
+
+<!DOCTYPE html>
+<html>
+<title>Lamborghini</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+}
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button">Automobile</a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="C:\Users\Student\Documents\Vijay\html\01.html" class="w3-bar-item w3-button">Home</a>
+      <a href="#menu" class="w3-bar-item w3-button">Menu</a>
+   
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
+  <img class="w3-image" src="C:\Users\Student\Documents\Vijay\html\Images\Lamborghini01.jpg" alt="Hamburger Catering" width="500" height="250">
+  <div class="w3-display-bottomleft w3-padding-large w3-opacity">
+    <h1 class="w3-xxlarge">Logo</h1>
+  </div>
+</header>
+
+
+
+ 
+
+
+
+	<nav>
+		 <ul>
+ 
+		 	 
+		 	  
+		</ul>
+	</nav>
+
+</section>
+
+<section id="screen2"></section>
+<section id="screen3"></section>
+<div class="w2-bottom">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="C:\Users\Student\Documents\Vijay\html\01.html" class="w3-bar-item w3-button">Home</a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      
+      <a href="C:\Users\Student\Documents\Vijay\html\02.html" class="w3-bar-item w3-button">Next</a>
+   
+    </div>
+  </div>
+</div>
+
+
+</body>
+
+</html>
+

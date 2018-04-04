@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<body 
+>
+ <h1>Automobile</h1>
+
+
+<h2 style="text-align:center;" ><U> Main article: History of the automobile</U></h2>
+ <h4 >The first working steam-powered vehicle was designed — and quite possibly built — by Ferdinand Verbiest, a Flemish member of a Jesuit mission in China around 1672. It was a 65-cm-long scale-model toy for the Chinese Emperor that was unable to carry a driver or a passenger.It is not known with certainty if Verbiest's model was successfully built or ran.
+
+Cugnot's 1771 fardier à vapeur, as preserved at the Musée des Arts et Métiers, Paris
+Nicolas-Joseph Cugnot is widely credited with building the first full-scale, self-propelled mechanical vehicle or car in about 1769; he created a steam-powered tricycle.He also constructed two steam tractors for the French Army, one of which is preserved in the French National Conservatory of Arts and Crafts.His inventions were, however, handicapped by problems with water supply and maintaining steam pressure.In 1801, Richard Trevithick built and demonstrated his Puffing Devil road locomotive, believed by many to be the first demonstration of a steam-powered road vehicle. It was unable to maintain sufficient steam pressure for long periods, and was of little practical use.
+
+The development of external combustion engines is detailed as part of the history of the car, but often treated separately from the development of true cars. A variety of steam-powered road vehicles were used during the first part of the 19th century, including steam cars, steam buses, phaetons, and steam rollers. Sentiment against them led to the Locomotive Acts of 1865.
+
+In 1807, Nicéphore Niépce and his brother Claude created what was probably the world's first internal combustion engine (which they called a Pyréolophore), but they chose to install it in a boat on the river Saone in France.Coincidentally, in 1807 the Swiss inventor François Isaac de Rivaz designed his own 'de Rivaz internal combustion engine' and used it to develop the world's first vehicle to be powered by such an engine. The Niépces' Pyréolophore was fuelled by a mixture of Lycopodium powder (dried spores of the Lycopodium plant), finely crushed coal dust and resin that were mixed with oil, whereas de Rivaz used a mixture of hydrogen and oxygen.Neither design was very successful, as was the case with others, such as Samuel Brown, Samuel Morey, and Etienne Lenoir with his hippomobile, who each produced vehicles (usually adapted carriages or carts) powered by internal combustion engines.</h4>
+
+<!DOCTYPE html>
+<html>
+<title>Lamborghini</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+}
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button">Automobile</a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="C:\Users\Student\Documents\Vijay\html\01.html" class="w3-bar-item w3-button">Home</a>
+      <a href="#menu" class="w3-bar-item w3-button">Menu</a>
+   
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
+  <img class="w3-image" src="C:\Users\Student\Documents\Vijay\html\Images\automobile02.jpg" alt="Hamburger Catering" width="500" height="250">
+  <div class="w3-display-bottomleft w3-padding-large w3-opacity">
+    <h1 class="w3-xxlarge">1st Car</h1>
+  </div>
+</header>
+
+
+
+  <!-- About Section -->
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="C:\Users\Student\Documents\Vijay\html\automobile01.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">CAR</h1><br>
+      <h5 class="w3-center">Tradition since 1889</h5>
+      <p class="w3-large">A car (or automobile) is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.Cars came into global use during the 20th century, and developed economies depend on them. The year 1886 is regarded as the birth year of the modern car when German inventor Karl Benz built his Benz Patent-Motorwagen. Cars became widely available in the early 20th century. One of the first cars that were accessible to the masses was the 1908 Model T, an American car manufactured by the Ford Motor Company. Cars were rapidly adopted in the US, where they replaced animal-drawn carriages and carts, but took much longer to be accepted in Western Europe and other parts of the world.
+<section id="screen1">
+
+
+
+	<nav>
+		 <ul>
+ 
+		 	 
+		 	  
+		</ul>
+	</nav>
+
+</section>
+
+<section id="screen2"></section>
+<section id="screen3"></section>
+<div class="w2-bottom">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="C:\Users\Student\Documents\Vijay\html\01.html" class="w3-bar-item w3-button">Home</a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      
+      <a href="C:\Users\Student\Documents\Vijay\html\02.html" class="w3-bar-item w3-button">Next</a>
+   
+    </div>
+  </div>
+</div>
+
+
+</body>
+
+</html>
+
